@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatma alzharaa</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-(https://readme-typing-svg.herokuapp.com?lines=welcome+to+my+Github+profile)](https://git.io/typing-svg)
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **php,laravel**
