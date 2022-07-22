@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatma alzharaa</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-- 🔭 I’m currently working on **my portfolio**
+
+ - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **php,laravel**
 
